@@ -1,0 +1,51 @@
+﻿<Window x:Class="KCK2.Viewpf.Shop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KCK2.Viewpf"
+        mc:Ignorable="d"
+        Title="Shop" Height="450" Width="800">
+    <Grid>
+     
+        <Button Content="Menu" Name="MenuButton" HorizontalAlignment="Left" Margin="646,-2,0,0" VerticalAlignment="Top" Height="65" Width="154" FontSize="30" Click="Menu_Click"/>
+        <Label Name="CoinLabel" Content="Coins here" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="34" Width="241" FontSize="15"/>
+        <Label Name="PackCost" Content="Pack costs here" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Height="29" Width="291" FontSize="15"/>
+        <Label Name="PackAmount" Content="Pack amount here" HorizontalAlignment="Left" Margin="3,83,0,0" VerticalAlignment="Top" Height="47" Width="314" FontSize="15"/>
+        <Button Name="BuyButton" Content="Buy" HorizontalAlignment="Left" Margin="3,148,0,0" VerticalAlignment="Top" Height="38" Width="108" Click="Buy_Click" FontSize="15"/>
+        <Label Name="Affordable" Content="You can afford X more packs" HorizontalAlignment="Left" Margin="3,109,0,0" VerticalAlignment="Top" Height="47" Width="314" FontSize="15"/>
+
+       
+        <ListBox Name="CardListBox" HorizontalAlignment="Left" Margin="10,200,10,10" VerticalAlignment="Top" Height="200" Width="760">
+            <ListBox.ItemsPanel>
+          
+                <ItemsPanelTemplate>
+                    <WrapPanel ItemWidth="150" ItemHeight="150" Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+            
+                    <Border BorderBrush="Gray" BorderThickness="2" Padding="10" Margin="5">
+                        <StackPanel>
+                            <TextBlock Text="{Binding ID}" FontSize="12" HorizontalAlignment="Center" Foreground="Gray"/>
+                            <TextBlock Text="{Binding Name}" FontSize="10" FontWeight="Bold" Foreground="DodgerBlue"/>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Mana: " FontSize="14" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding Cost}" FontSize="14" Foreground="MediumBlue"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Attack: " FontSize="14" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding Attack}" FontSize="14" Foreground="Green"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Health: " FontSize="14" FontWeight="Bold"/>
+                                <TextBlock Text="{Binding MaxHealth}" FontSize="14" Foreground="Purple"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Viewpf\Clicker.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viewpf\Collection.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viewpf\SaveData.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Viewpf\Shop.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Viewpf\Clicker.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viewpf\Collection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viewpf\SaveData.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Viewpf\Shop.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

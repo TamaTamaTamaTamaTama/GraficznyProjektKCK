@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\savedata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\savedata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\collection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\collection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\clicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\clicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\savedata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\savedata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\collection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\collection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\clicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\clicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\view\\shopview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\view\\shopview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\view\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\view\\menuview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\view\\collectionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\view\\collectionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\view\\clickerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\view\\clickerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\view\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\view\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\model\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\model\\shopmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\model\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\model\\menumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\model\\collectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\model\\collectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\model\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\model\\cardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\model\\accmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\model\\accmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\fonts\\agendaking.otf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\fonts\\agendaking.otf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\controller\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\controller\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\controller\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\controller\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\controller\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\controller\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\controller\\clickercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\controller\\clickercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\kck2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\kck2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|c:\\users\\dominik\\desktop\\exportkck2\\graficznyprojektkck\\kck2\\kck2\\viewpf\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{38C6D85F-D7E7-478C-A69A-24919B78C028}|KCK2\\KCK2.csproj|solutionrelative:kck2\\viewpf\\mainwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\MenuController.cs",
+              "RelativeDocumentMoniker": "KCK2\\Controller\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\MenuController.cs",
+              "RelativeToolTip": "KCK2\\Controller\\MenuController.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAAAE4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:56:45.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\MainWindow.xaml",
+              "RelativeToolTip": "KCK2\\Viewpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T22:54:44.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveData.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\SaveData.xaml",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\SaveData.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\SaveData.xaml",
+              "RelativeToolTip": "KCK2\\Viewpf\\SaveData.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T22:39:12.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clicker.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Clicker.xaml.cs",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\Clicker.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Clicker.xaml.cs",
+              "RelativeToolTip": "KCK2\\Viewpf\\Clicker.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:39:07.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Collection.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Collection.xaml.cs",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\Collection.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Collection.xaml.cs",
+              "RelativeToolTip": "KCK2\\Viewpf\\Collection.xaml.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAiwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:21:34.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KCK2\\Viewpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:55:20.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveData.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\SaveData.xaml.cs",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\SaveData.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\SaveData.xaml.cs",
+              "RelativeToolTip": "KCK2\\Viewpf\\SaveData.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:58:01.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Shop.xaml",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\Shop.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Shop.xaml",
+              "RelativeToolTip": "KCK2\\Viewpf\\Shop.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T12:57:44.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Shop.xaml.cs",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\Shop.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Shop.xaml.cs",
+              "RelativeToolTip": "KCK2\\Viewpf\\Shop.xaml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:55:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Program.cs",
+              "RelativeDocumentMoniker": "KCK2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Program.cs",
+              "RelativeToolTip": "KCK2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:39:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Collection.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Collection.xaml",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\Collection.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Collection.xaml",
+              "RelativeToolTip": "KCK2\\Viewpf\\Collection.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T12:57:55.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Clicker.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Clicker.xaml",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\Clicker.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\Clicker.xaml",
+              "RelativeToolTip": "KCK2\\Viewpf\\Clicker.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T11:30:13.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopView.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\ShopView.cs",
+              "RelativeDocumentMoniker": "KCK2\\View\\ShopView.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\ShopView.cs",
+              "RelativeToolTip": "KCK2\\View\\ShopView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:12:25.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuView.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\MenuView.cs",
+              "RelativeDocumentMoniker": "KCK2\\View\\MenuView.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\MenuView.cs",
+              "RelativeToolTip": "KCK2\\View\\MenuView.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:54:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CollectionView.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\CollectionView.cs",
+              "RelativeDocumentMoniker": "KCK2\\View\\CollectionView.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\CollectionView.cs",
+              "RelativeToolTip": "KCK2\\View\\CollectionView.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:54:54.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClickerView.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\ClickerView.cs",
+              "RelativeDocumentMoniker": "KCK2\\View\\ClickerView.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\ClickerView.cs",
+              "RelativeToolTip": "KCK2\\View\\ClickerView.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:51:33.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CardView.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\CardView.cs",
+              "RelativeDocumentMoniker": "KCK2\\View\\CardView.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\View\\CardView.cs",
+              "RelativeToolTip": "KCK2\\View\\CardView.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:29:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShopModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\ShopModel.cs",
+              "RelativeDocumentMoniker": "KCK2\\Model\\ShopModel.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\ShopModel.cs",
+              "RelativeToolTip": "KCK2\\Model\\ShopModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:41:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\MenuModel.cs",
+              "RelativeDocumentMoniker": "KCK2\\Model\\MenuModel.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\MenuModel.cs",
+              "RelativeToolTip": "KCK2\\Model\\MenuModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:56:19.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CollectionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\CollectionModel.cs",
+              "RelativeDocumentMoniker": "KCK2\\Model\\CollectionModel.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\CollectionModel.cs",
+              "RelativeToolTip": "KCK2\\Model\\CollectionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:34:03.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\AccModel.cs",
+              "RelativeDocumentMoniker": "KCK2\\Model\\AccModel.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\AccModel.cs",
+              "RelativeToolTip": "KCK2\\Model\\AccModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:56:25.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CardModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\CardModel.cs",
+              "RelativeDocumentMoniker": "KCK2\\Model\\CardModel.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Model\\CardModel.cs",
+              "RelativeToolTip": "KCK2\\Model\\CardModel.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:25:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AgendaKing.otf",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Fonts\\AgendaKing.otf",
+              "RelativeDocumentMoniker": "KCK2\\Fonts\\AgendaKing.otf",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Fonts\\AgendaKing.otf",
+              "RelativeToolTip": "KCK2\\Fonts\\AgendaKing.otf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG1SURBVDhPxVM/TwIxHP215Y\u002BgCFEwIRg3BiYTRpwUJxcZ1A\u002Bhn4ABEhM\u002BgN/AyYQYNjYGVhIWJ0OMBCIkBok4IAbu4K7217vGu0Cimy957a\u002BvfS/XXksSiQTz\u002BXwE/gBCCHDOzW63a0pBDEilUqlmMpkDKfwCEUBHo5FWLpevSqVSRYq1Wq2u6xrXNKRu9w7inC50QV1wOp3yVqulF4vFM/RTbDjHFmEXKCgNezm2BMYYmKbpzeVyd/l8PicDEGI7OGERa27Xgjin1iCSySSkUilfNpu9pk6jK2SFhrUipRT8fr/XFbBYLEDXF9DuTWA\u002Bn0uKfS8FKIhD5TLAGfLcn8F9bSiDDMNwmVeFuL7AMEzov35A83EM9ea7rTlCzOUQip0SH54\u002BIRRksBtjcFsduMyS4mCdZgQNBgJcLRgMxxANE7g43oTeF4PHl4krQJl/KALw4HDQe9OABdZgJ7oBe/F1OD\u002BKQHtkgLHSaJnxktCZpsl3EN\u002BijcP9EHgYge2IHy5PYnCaDjc84uKgQS63ewtWTQqFwo24GGmVbIqDUpMI/N/4iJCUiJpaNbLT6XTtZf8GgG/Ef6iAvgDaYAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-17T05:19:36.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\CollectionController.cs",
+              "RelativeDocumentMoniker": "KCK2\\Controller\\CollectionController.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\CollectionController.cs",
+              "RelativeToolTip": "KCK2\\Controller\\CollectionController.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAAAAIBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:07:50.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClickerController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\ClickerController.cs",
+              "RelativeDocumentMoniker": "KCK2\\Controller\\ClickerController.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\ClickerController.cs",
+              "RelativeToolTip": "KCK2\\Controller\\ClickerController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwDkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:07:52.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\ShopController.cs",
+              "RelativeDocumentMoniker": "KCK2\\Controller\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Controller\\ShopController.cs",
+              "RelativeToolTip": "KCK2\\Controller\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:12:13.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:00:53.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T23:00:49.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFcJAAAAAAAAAAAgwGsJAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-16T01:19:49.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KCK2.csproj",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\KCK2.csproj",
+              "RelativeDocumentMoniker": "KCK2\\KCK2.csproj",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\KCK2.csproj",
+              "RelativeToolTip": "KCK2\\KCK2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T10:14:50.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T23:23:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\KCK2\\GraficzneKCK\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:24:18.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KCK2\\Viewpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\Desktop\\exportkck2\\GraficznyProjektKCK\\KCK2\\KCK2\\Viewpf\\MainWindow.xaml",
+              "RelativeToolTip": "KCK2\\Viewpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T22:54:41.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

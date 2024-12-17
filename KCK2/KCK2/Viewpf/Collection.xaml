@@ -1,0 +1,87 @@
+﻿<Window x:Class="KCK2.Viewpf.Collection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Collection" Height="600" Width="1000">
+    <Grid>
+
+        <Label Content="My Collection" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Margin="0,10,0,0"/>
+
+
+        <ComboBox Name="SortComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,10,0,0" Width="300" SelectionChanged="SortComboBox_SelectionChanged">
+            <ComboBoxItem Name="Sort0" Content="0. Sorting alphabetically" />
+            <ComboBoxItem Content="1. Sorting by ID" />
+            <ComboBoxItem Content="2. Sorting alphabetically backwards" />
+            <ComboBoxItem Content="3. Sorting by cost, lowest to highest" />
+            <ComboBoxItem Content="4. Sorting by cost, highest to lowest" />
+            <ComboBoxItem Content="5. Sorting by dust cost, cheapest to craft" />
+            <ComboBoxItem Content="6. Sorting by dust cost, most expensive discards" />
+            <ComboBoxItem Content="7. Sorting to show the cards you don't own first" />
+            <ComboBoxItem Content="8. Sorting to show the cards you do own first" />
+        </ComboBox>
+
+
+        <ScrollViewer Name="CardScrollViewer" VerticalScrollBarVisibility="Auto" Margin="20,110,20,60">
+            <ItemsControl Name="CardItemsControl">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel ItemWidth="200" ItemHeight="200"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Gray" BorderThickness="1" Margin="5" Padding="10">
+                            <StackPanel>
+                                <TextBlock Text="{Binding Name}" FontSize="14" FontWeight="Bold" HorizontalAlignment="Center" Foreground="DodgerBlue"/>
+                                <TextBlock Text="{Binding ID}" FontSize="12" HorizontalAlignment="Center" Foreground="Gray"/>
+                                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                    <TextBlock Text="Mana: " FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding Cost}"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Attack: " FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding Attack}" Foreground="Green"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Health: " FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding MaxHealth}" Foreground="Purple"/>
+                                </StackPanel>
+                                <Button Content="Select" Margin="0,10,0,0" Click="CardSelect_Click">
+                                    <Button.CommandParameter>
+                                        <Binding />
+                                    </Button.CommandParameter>
+                                </Button>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" Margin="20,40,0,448">
+            <StackPanel Orientation="Horizontal">
+                <Button Content="X" Width="30" Height="30" Margin="2" Click="FilterX" Background="DarkRed" Foreground="White"/>
+                <Button Content="0" Width="30" Height="30" Margin="2" Click="Filter0" Background="MediumBlue" Foreground="White"/>
+                <Button Content="1" Width="30" Height="30" Margin="2" Click="Filter1" Background="MediumBlue" Foreground="White"/>
+                <Button Content="2" Width="30" Height="30" Margin="2" Click="Filter2" Background="MediumBlue" Foreground="White"/>
+                <Button Content="3" Width="30" Height="30" Margin="2" Click="Filter3" Background="MediumBlue" Foreground="White"/>
+                <Button Content="4" Width="30" Height="30" Margin="2" Click="Filter4" Background="MediumBlue" Foreground="White"/>
+                <Button Content="5" Width="30" Height="30" Margin="2" Click="Filter5" Background="MediumBlue" Foreground="White"/>
+                <Button Content="6" Width="30" Height="30" Margin="2" Click="Filter6" Background="MediumBlue" Foreground="White"/>
+                <Button Content="7" Width="30" Height="30" Margin="2" Click="Filter7" Background="MediumBlue" Foreground="White"/>
+                <Button Content="8" Width="30" Height="30" Margin="2" Click="Filter8" Background="MediumBlue" Foreground="White"/>
+                <Button Content="9" Width="30" Height="30" Margin="2" Click="Filter9" Background="MediumBlue" Foreground="White"/>
+                <Button Content="10" Width="30" Height="30" Margin="2" Click="Filter10" Background="MediumBlue" Foreground="White"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="531,0,0,10">
+
+
+
+        </StackPanel>
+
+
+        <Button Content="Menu" Name="MenuButton" HorizontalAlignment="Right" VerticalAlignment="Top" Height="40" Width="120" Click="Menu_Click"/>
+        <Label Name="DustCounter" Content="Dust" HorizontalAlignment="Left" Margin="610,4,0,0" VerticalAlignment="Top" Width="150" FontSize="20" Foreground="MediumBlue"/>
+    </Grid>
+</Window>
